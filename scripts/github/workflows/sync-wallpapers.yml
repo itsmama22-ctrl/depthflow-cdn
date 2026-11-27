@@ -1,0 +1,38 @@
+name: Sync Wallpapers to CDN
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Runs automatically every 12 hours
+  workflow_dispatch:       # Lets you trigger a manual sync anytime
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch and filter wallpapers
+        env:
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+        run: node scripts/fetch_wallpapers.mjs
+
+      - name: Commit updated JSON feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add v1/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: refresh wallpaper feeds" && git push)
+
+      - name: Purge jsDelivr CDN cache
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/itsmama22-ctrl/depthflow-cdn@main/v1/manifest.json" > /dev/null
+          for slug in spatial abstract cyberpunk oled cosmos architecture landscapes anime; do
+            curl -s "https://purge.jsdelivr.net/gh/itsmama22-ctrl/depthflow-cdn@main/v1/categories/${slug}.json" > /dev/null
+          done
