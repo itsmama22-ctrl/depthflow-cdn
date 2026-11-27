@@ -1,0 +1,48 @@
+{
+  "version": "1.0.0",
+  "minSupportedBuild": 1,
+  "updatedAt": "2026-11-27T15:27:07.869Z",
+  "cdnBaseUrl": "https://cdn.jsdelivr.net/gh/itsmama22-ctrl/depthflow-cdn@main/v1",
+  "categories": [
+    {
+      "id": "spatial",
+      "name": "Spatial 3D",
+      "endpoint": "/categories/spatial.json"
+    },
+    {
+      "id": "abstract",
+      "name": "Liquid & Fluid",
+      "endpoint": "/categories/abstract.json"
+    },
+    {
+      "id": "cyberpunk",
+      "name": "Neon Cyber",
+      "endpoint": "/categories/cyberpunk.json"
+    },
+    {
+      "id": "oled",
+      "name": "AMOLED Dark",
+      "endpoint": "/categories/oled.json"
+    },
+    {
+      "id": "cosmos",
+      "name": "Deep Space",
+      "endpoint": "/categories/cosmos.json"
+    },
+    {
+      "id": "architecture",
+      "name": "Urban Geometry",
+      "endpoint": "/categories/architecture.json"
+    },
+    {
+      "id": "landscapes",
+      "name": "Scenic Depth",
+      "endpoint": "/categories/landscapes.json"
+    },
+    {
+      "id": "anime",
+      "name": "Anime & Sci-Fi",
+      "endpoint": "/categories/anime.json"
+    }
+  ]
+}

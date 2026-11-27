@@ -1,0 +1,240 @@
+{
+  "category": "cosmos",
+  "updatedAt": "2026-11-27T15:27:07.869Z",
+  "total": 21,
+  "items": [
+    {
+      "id": "un_YvRTYzkT6Hs",
+      "title": "the night sky with stars and the milky",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#0c2626",
+      "thumbUrl": "https://images.unsplash.com/photo-1570556319136-3cfc640168a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQ2NTM3fDB8MXxzZWFyY2h8MXx8bmVidWxhJTIwZ2FsYXh5JTIwbWlsa3klMjB3YXl8ZW58MXwxfHxibGFja3wxNzk1NzkzMjI5fDA&ixlib=rb-4.1.0&q=80&w=400",
+      "fullUrl": "https://images.unsplash.com/photo-1570556319136-3cfc640168a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQ2NTM3fDB8MXxzZWFyY2h8MXx8bmVidWxhJTIwZ2FsYXh5JTIwbWlsa3klMjB3YXl8ZW58MXwxfHxibGFja3wxNzk1NzkzMjI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "photographer": "Gary Scott",
+      "photographerURL": "https://unsplash.com/@garyscott_?utm_source=depthflow&utm_medium=referral",
+      "unsplashPhotoId": "YvRTYzkT6Hs"
+    },
+    {
+      "id": "px_1784292",
+      "title": "universe",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/g45619581b949878b1d87013148e532590849b04a3db167acba0d89d86188ad4af5053a66d77e0f7ea87346e1ea277c362af5467daa83c9d7be280ceeff3764f7_640.jpg",
+      "fullUrl": "https://pixabay.com/get/geac26452b8f0c602767505dabe86933d39e178d0c5304a593d6eddd4da96e8eeb8075de31ca178b77c57af9e6a6192f78987f94b4f214ba91d028e78ad1fd677_1280.jpg",
+      "photographer": "51581",
+      "photographerURL": "https://pixabay.com/photos/universe-earth-planet-space-cosmos-1784292/"
+    },
+    {
+      "id": "un_svbDI1Pq30s",
+      "title": "The Milky Way galaxy stretching across a dark ni",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#262626",
+      "thumbUrl": "https://images.unsplash.com/photo-1530508777238-14544088c3ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQ2NTM3fDB8MXxzZWFyY2h8Mnx8bmVidWxhJTIwZ2FsYXh5JTIwbWlsa3klMjB3YXl8ZW58MXwxfHxibGFja3wxNzk1NzkzMjI5fDA&ixlib=rb-4.1.0&q=80&w=400",
+      "fullUrl": "https://images.unsplash.com/photo-1530508777238-14544088c3ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQ2NTM3fDB8MXxzZWFyY2h8Mnx8bmVidWxhJTIwZ2FsYXh5JTIwbWlsa3klMjB3YXl8ZW58MXwxfHxibGFja3wxNzk1NzkzMjI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "photographer": "Raphael Nogueira",
+      "photographerURL": "https://unsplash.com/@phaelnogueira?utm_source=depthflow&utm_medium=referral",
+      "unsplashPhotoId": "svbDI1Pq30s"
+    },
+    {
+      "id": "px_9239765",
+      "title": "astronaut",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/gda6f0c8d419b0e9f128fcb422196105986b4551531630446196faaa9eb057087d6e8ae69a780f91260c8705d5990b132cce373060602c3d8184e1e247899b95c_640.jpg",
+      "fullUrl": "https://pixabay.com/get/gf01a90e63c798cba61a9c95c39e797fc391fdac6b97e158c83c6feb33c6b43cc457cc1d98773a4e6d5bd30d1218d4458c1d62d1a933a728727f341726cf1dfc4_1280.jpg",
+      "photographer": "Terranaut",
+      "photographerURL": "https://pixabay.com/illustrations/astronaut-cosmos-universe-cosmonaut-9239765/"
+    },
+    {
+      "id": "px_11150",
+      "title": "eagle nebula",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/gd128f403afe485a3fee7bf124be5acdc10f508d1e98710fb60dd4a3da7b5a45a0e70ea5d969d0dde12fd0d49ae80b7f3_640.jpg",
+      "fullUrl": "https://pixabay.com/get/g09e60c6c4fafd0c2be36717084570054aff827a98682f2a42ffde830da96affbf90582245c39549b88b81c9f2b664adc_1280.jpg",
+      "photographer": "WikiImages",
+      "photographerURL": "https://pixabay.com/photos/eagle-nebula-ic-4703-fog-11150/"
+    },
+    {
+      "id": "px_8963360",
+      "title": "ai generated",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/g4cdab925d862b7578ea84ee6234088187a2fd646030362cb3a74979b179177fa5181ede034601c2503335b3420bfe24cc9e0856deeb32e8faeefb221931430ca_640.jpg",
+      "fullUrl": "https://pixabay.com/get/gf16e561c2affc2ba52a6f1d4e512b349d17180372b86628e2793efb812c6c261ceb64b2b7f6a368200b7569a17afa4af6dc1760cadaeebc83a0b4a2da6330c1a_1280.jpg",
+      "photographer": "NickyPe",
+      "photographerURL": "https://pixabay.com/illustrations/ai-generated-universe-astronomy-8963360/"
+    },
+    {
+      "id": "px_8670286",
+      "title": "ai generated",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/g8028c2adc9aa4b99ab0429c6b4efe56bfc44b8854fee6fb68b485b8c7e5ec002505bb7751e02d48c982dea5246631d21e91da846b8726d3f626dc6ae1cca5df3_640.jpg",
+      "fullUrl": "https://pixabay.com/get/g0a67c3bdf00f9370b7b3b0a8346f1518312222a179a480a1059b706ce4af01e381dcef8efe6ccb4e57c78816c5db3718b626d776ff9cc44fca22da22f675ac43_1280.jpg",
+      "photographer": "YolGezer",
+      "photographerURL": "https://pixabay.com/illustrations/ai-generated-space-planets-nebula-8670286/"
+    },
+    {
+      "id": "px_2287215",
+      "title": "lunar landscape",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/g6608c40501be08a07efb3ee57206ad47977cecb7b2d60cf901c53f9d5fec3196a7b294a207b853b28600ebb13581eb133ee3f2f845c353a55dc8be34e2b77da2_640.jpg",
+      "fullUrl": "https://pixabay.com/get/g882206e2e84863112299347237def9a12f2f46e074a7216a37621bf10e121c295b0ffb509833305a0cc0d581c5981ffe3be8e2e6b470aa2da615c435457332c3_1280.jpg",
+      "photographer": "8385",
+      "photographerURL": "https://pixabay.com/illustrations/lunar-landscape-space-gas-mist-2287215/"
+    },
+    {
+      "id": "px_9248639",
+      "title": "ai generated",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/g81c6172422d03204f0fb7c8f6ad83a552a0b8632f1af18683da44003a9eacfb30b05b4ca47976f9de56c4811e31c05917cda72a3d3d2eab4ef44b2db67aae49a_640.jpg",
+      "fullUrl": "https://pixabay.com/get/g485c2db48edd6dbebe2f7170779cf5c6e0b43f071dd9979a3eb45a6f65440c245cb1294b99e61dc306918751a45a0ae63162eb9edc1db84ad27e5befe3c1e5a0_1280.jpg",
+      "photographer": "YolGezer",
+      "photographerURL": "https://pixabay.com/illustrations/ai-generated-space-galaxy-astronomy-9248639/"
+    },
+    {
+      "id": "px_9675322",
+      "title": "ai generated",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/ged71fcbbcd9b101740692e324c8a4fc0b4c846b2da2e8573cecb6f216647d3a630dd34d283b52fd7bbf5f24da19c7f283eb971a34721b7664424a1d11245d8cc_640.jpg",
+      "fullUrl": "https://pixabay.com/get/g2df290d181f99bfed670e85753d628494eb2a2f464e2dab23431772403226ea9f90b9d1c465068238f17bf97b5050e9bd6a80c41119e4b0728cbf0429b76089e_1280.jpg",
+      "photographer": "Vilkasss",
+      "photographerURL": "https://pixabay.com/illustrations/ai-generated-galaxy-cosmos-space-9675322/"
+    },
+    {
+      "id": "px_10042862",
+      "title": "space",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/g60e2284a50082b79444195ad7c5e11775ad00875c2b59d46c4c999ab3e234e0a5fc006f5d1578d6b4f1bf0316a56129a3862f1c64261df480fae31a8688b74b3_640.jpg",
+      "fullUrl": "https://pixabay.com/get/g6db8e012e85e2d997fee5d73077ea0276ef1915ed88d892baf129e4dfd89335cd6f557324d4181e9fc16a84dfc49b22e061b8a68ad3e6dfccd24abe829b45a00_1280.jpg",
+      "photographer": "Vilkasss",
+      "photographerURL": "https://pixabay.com/illustrations/space-surreal-abstract-dark-nebula-10042862/"
+    },
+    {
+      "id": "px_8445503",
+      "title": "ai generated",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/ga998313a760aae792699d6b2ebb09d763813453f10fe7f9d7cb60b7fdbbd7cb76bf4c62fdf845395b8860d23b97ed86b6ccb0a7b5363e822b8352888ceb68d8c_640.jpg",
+      "fullUrl": "https://pixabay.com/get/g68c729882f2a2c481fb8ae95be512f6f4d6d8ebc678e824c248d9b14939dfc0d62f8c5916fbe6d91c8fdaf6d0e660252b8bb5a4b890b378ac8721c1de9b425a9_1280.jpg",
+      "photographer": "InfiniteFantasy",
+      "photographerURL": "https://pixabay.com/illustrations/ai-generated-space-spiral-light-8445503/"
+    },
+    {
+      "id": "px_8676360",
+      "title": "ai generated",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/g3b8196ed7ae9a01ee812674ed9996ef0dec3f494ce2b46e820e16457a1ee9469744e56382c33e41b2c7e15b6f693f2219bda95de5d5c981418fb0910ba99e8ec_640.jpg",
+      "fullUrl": "https://pixabay.com/get/g180427cf1ec8a5e4964a5b8af1eb8addd0b67e3fa613b86e236aeaff43f70970cb5ad5fa6ccd304fadce45bab923b198d718134f215008922563edd451448060_1280.jpg",
+      "photographer": "AberrantRealities",
+      "photographerURL": "https://pixabay.com/illustrations/ai-generated-mystic-celestial-8676360/"
+    },
+    {
+      "id": "px_8158781",
+      "title": "ai generated",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/g606ddc1dd7936f410e71a7fc2b221d0f0daa23632f79841b5e7652136ede9567e14d7b4e2ed8f61c0ee9ae18d92bd9370d41aa627885dfc1fdcb72e7460eef58_640.jpg",
+      "fullUrl": "https://pixabay.com/get/g087814d03aae4d6d2323aab93dea4140ee30f865f56d39572028d869c73eb866ec3b453d083dcd18d7f6cca2f9433d885efc31a0b5ae32f8a5c8656a7f35ebcd_1280.jpg",
+      "photographer": "WorldCulturel",
+      "photographerURL": "https://pixabay.com/illustrations/ai-generated-astronaut-space-8158781/"
+    },
+    {
+      "id": "px_8527098",
+      "title": "ai generated",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/g48d2a0f4d6b156fcff0200d5957f28eba15b7aa91349cda03402ed787e966e4eafd1a96763f4f943b904addc98ed84639ac52ea5ee1dfecf822b1ee317e24b20_640.jpg",
+      "fullUrl": "https://pixabay.com/get/gd005d0d695ca9850fb41952ebb213da9f2b4c365b035393faf8c9ae9d79daf367ddcd442dd889b9bcc006b7aeca57afe91efd0e0967fa2b7f29e1143c9ad4e3d_1280.jpg",
+      "photographer": "InfiniteFantasy",
+      "photographerURL": "https://pixabay.com/illustrations/ai-generated-space-nebula-galaxy-8527098/"
+    },
+    {
+      "id": "px_8655646",
+      "title": "ai generated",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/g64cc9e57b7f8bcc12b1218fec38466c61e21a33551d708a44fe85a40edd657f33adcd7c75d620976d1f22bc34244252bea78588856d59bdf8feaef545fc08b9d_640.png",
+      "fullUrl": "https://pixabay.com/get/g21b64dbb1306a2330f3a710032d4370bc47cd5a261856b0bbc91bdec586836431282aa29864a5ce59f200026b5120e48e54fb6305d886ac81172cbedfc11b756_1280.png",
+      "photographer": "SmyrnaPro",
+      "photographerURL": "https://pixabay.com/illustrations/ai-generated-cup-tea-space-8655646/"
+    },
+    {
+      "id": "px_8630459",
+      "title": "ai generated",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/g3e2f43df798ead5ad7a36b3e99e351c5eeddeba40b64be01b92230cb74ff826081b0e46a4bd247a8e338e6ae57b8e1ae15219400af7e9b0ceff896b2b3a209aa_640.jpg",
+      "fullUrl": "https://pixabay.com/get/g8d6345212e44b736cbbcc9ab9c9ccaf4da235991b672b1982e85f85370aaba4ed10137faebc80806b7dab99f71a1473c30727233906dc9e13058d1e4b0bbe766_1280.jpg",
+      "photographer": "JuliusH",
+      "photographerURL": "https://pixabay.com/illustrations/ai-generated-robot-technology-8630459/"
+    },
+    {
+      "id": "px_8973480",
+      "title": "ai generated",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/g16e032649a0954676ffdb35f87ddaa816f5ab536a6ba73abdb7631e4a33883a17f7d8db965656b98e235e228ca255c6a48a67383fe96f62cd43a02dfa0d6bce3_640.jpg",
+      "fullUrl": "https://pixabay.com/get/g2596e1262a5c038557d4d4468783404950f17da8c6c546e26d25d396775911a62a375fa7d006515afa82345add0dcb12fb79624e53b7c855143c777593911cc2_1280.jpg",
+      "photographer": "YolGezer",
+      "photographerURL": "https://pixabay.com/illustrations/ai-generated-astronaut-space-planet-8973480/"
+    },
+    {
+      "id": "px_6051239",
+      "title": "astronaut",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/g80875dadeb27fb848ccb45fb343f1a715c074bf2ba465e7c9e26aceec89144b569431d360d2f89c9f84ae6f6deabafad5027defd6c3af0126676d04f901ca402_640.jpg",
+      "fullUrl": "https://pixabay.com/get/g40f0dc27e676516ba3f47672611799cb7496f317fec470f2cfe775d57bf2153e48d6c1b226a79d8284dd033214d32d92fdcb92f469f6a9b912283e2c9a350be9_1280.jpg",
+      "photographer": "elvina1332",
+      "photographerURL": "https://pixabay.com/illustrations/astronaut-moon-cosmos-cosmonaut-6051239/"
+    },
+    {
+      "id": "px_9675324",
+      "title": "ai generated",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/g6b455d6b2d85154cf8e56a2fb83aca1a3d1c9002faa7ae7e7bb4d2273d2a9329860b3b2a672f0b3356f6e5b31b6cf342bb849eaefdacb901bc773dea0b7c14f8_640.jpg",
+      "fullUrl": "https://pixabay.com/get/gc95c8f6b60d4d6ec00f53391fb074823d6caf29be8da42a0e49a877f5924df57c68ecc736a6926425210893aa2fe5dd4c7b101d9352dccbe6a9ca8d426cb061a_1280.jpg",
+      "photographer": "Vilkasss",
+      "photographerURL": "https://pixabay.com/illustrations/ai-generated-space-fractal-nebula-9675324/"
+    },
+    {
+      "id": "px_8459874",
+      "title": "ai generated",
+      "isDepthReady": true,
+      "isPro": false,
+      "dominantHex": "#10131A",
+      "thumbUrl": "https://pixabay.com/get/gdf5afc457bc49dddbf289482bfc8035ddd140c17ac20bbf519c78e82ae9df3f83b6a705e01a7fdf6f061be7a92aadc3877f9af774e38488401aed8846934e3cb_640.jpg",
+      "fullUrl": "https://pixabay.com/get/g919bf139ff0515f6289a0dadfbb6692ac0d3d807ecbf9848365a42713c79299a51b68af2deec8c9619edfb644023a43168fb380c7bd2b74ac615cefb5ca57617_1280.jpg",
+      "photographer": "InfiniteFantasy",
+      "photographerURL": "https://pixabay.com/illustrations/ai-generated-nebula-galaxy-star-8459874/"
+    }
+  ]
+}
